@@ -1,0 +1,24 @@
+train:
+Epoch: 0 | mean loss: 7.11565 | total acc: 0.78702 | total recall: 0.69660 | total f1 scroe: 0.73906
+Epoch: 1 | mean loss: 6.06915 | total acc: 0.75783 | total recall: 0.72411 | total f1 scroe: 0.74059
+Epoch: 2 | mean loss: 7.18564 | total acc: 0.74617 | total recall: 0.70874 | total f1 scroe: 0.72697
+Epoch: 3 | mean loss: 6.00871 | total acc: 0.76270 | total recall: 0.74110 | total f1 scroe: 0.75174
+Epoch: 4 | mean loss: 6.62946 | total acc: 0.76929 | total recall: 0.75000 | total f1 scroe: 0.75952
+Epoch: 5 | mean loss: 5.71566 | total acc: 0.77036 | total recall: 0.76537 | total f1 scroe: 0.76786
+Epoch: 6 | mean loss: 6.00706 | total acc: 0.78601 | total recall: 0.76375 | total f1 scroe: 0.77472
+Epoch: 7 | mean loss: 5.92707 | total acc: 0.78913 | total recall: 0.77508 | total f1 scroe: 0.78204
+Epoch: 8 | mean loss: 7.38046 | total acc: 0.73355 | total recall: 0.72168 | total f1 scroe: 0.72757
+Epoch: 9 | mean loss: 6.73458 | total acc: 0.77224 | total recall: 0.75162 | total f1 scroe: 0.76179
+
+
+vaild:
+Epoch: 0 | mean loss: 38.69371 | total acc: 0.45295 | total recall: 0.64486 | total f1 scroe: 0.53213
+Epoch: 1 | mean loss: 5.39020 | total acc: 0.76623 | total recall: 0.73520 | total f1 scroe: 0.75040
+Epoch: 2 | mean loss: 8.18935 | total acc: 0.76949 | total recall: 0.70717 | total f1 scroe: 0.73701
+Epoch: 3 | mean loss: 7.48045 | total acc: 0.77676 | total recall: 0.79128 | total f1 scroe: 0.78395
+Epoch: 4 | mean loss: 7.44197 | total acc: 0.84000 | total recall: 0.65421 | total f1 scroe: 0.73555
+Epoch: 5 | mean loss: 6.09916 | total acc: 0.85496 | total recall: 0.69782 | total f1 scroe: 0.76844
+Epoch: 6 | mean loss: 8.41370 | total acc: 0.64359 | total recall: 0.78193 | total f1 scroe: 0.70605
+Epoch: 7 | mean loss: 7.24763 | total acc: 0.77070 | total recall: 0.75389 | total f1 scroe: 0.76220
+Epoch: 8 | mean loss: 8.42205 | total acc: 0.82857 | total recall: 0.72274 | total f1 scroe: 0.77205
+Epoch: 9 | mean loss: 7.95080 | total acc: 0.88931 | total recall: 0.72586 | total f1 scroe: 0.79931
